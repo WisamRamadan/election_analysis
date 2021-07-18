@@ -1,5 +1,5 @@
 # Election Analysis
-## Project Overview
+## Overview of Election Audit
 A Colorado Board of Elections employee asked for election audit of a recent local congressional election.
 the following steps were carried out:
 1. Calcualte the total number of votes cast.
