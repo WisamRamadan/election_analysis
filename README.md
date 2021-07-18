@@ -35,8 +35,16 @@ Raymon Anthony Doane|3.1| 11,606
   **Diana DeGette who received 73.8% of the votes and 272,892 votes!**
   
 ## Election Audit Summary
-The power of this election audit python code is in its ability to be reused in any election with minor modifications.
+The power of this election audit python code is its ability to be reused in any election with minor modifications. For example,
+you can change the election data source file by changing the folder and file name in the following code block:
+```# Add a variable to load a file from a path.
+file_to_load = os.path.join("Resources", "election_results.csv")
+````
+Replace "Resources" folder with the new folder name, and "election_results.csv" with the new election data csv file.
 
-### Challenge Overview
-### Challenge Summary
+Also, you can save the new results to a different text files by replacing the folder name "analysis" and the file name "election_analysis.txt" with new folder and files names respectively.
+```
+# Add a variable to save the file to a path.
+file_to_save = os.path.join("analysis", "election_analysis.txt")
+```
 
