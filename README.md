@@ -12,7 +12,7 @@ the following steps were carried out:
 * Data Source: election_results.csv
 * Software: Python 3.9.6, Visual Studio Code, 1.38.1
 
-## Summary
+## Election Audit Results
 the audit of the election show that:
 * There were **369,711** votes cast in the election.
 * The candidates were:
@@ -25,6 +25,7 @@ the audit of the election show that:
   * Raymon Anthony Doane reveived 3.1% of the votes and 11,606 votes.
 * The winner of the election was:
   **Diana DeGette who received 73.8% of the votes and 272,892 votes!**
-## Challenge Overview
-## Challenge Summary
+## Election Audit Summary
+### Challenge Overview
+### Challenge Summary
 
